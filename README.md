@@ -1,5 +1,7 @@
 # AgroAI Colombia: Intelligent Agricultural Advisory System
 
+![AgroAI Colombia Banner](docs/banner.png)  <!-- You can create and add a banner image here -->
+
 ## Overview
 
 AgroAI Colombia is an intelligent agricultural advisory system designed to empower Colombian farmers with data-driven insights for crop management, pest detection, and climate-adaptive farming strategies. By leveraging the power of generative AI, this project provides real-time, personalized recommendations to help farmers improve crop yields, reduce costs, and build resilience against the effects of climate change.
