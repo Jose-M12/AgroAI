@@ -24,24 +24,25 @@ To set up and run the project locally, follow these steps:
 
 ### Prerequisites
 
+*   Anaconda or Miniconda
 *   Python 3.9 or higher
-*   pip (Python package installer)
 
-### 1. Clone the Repository
+### Using Anaconda/Miniconda (Recommended)
 
-```bash
-# (Assuming the project is in a git repository)
-git clone <repository_url>
-cd agroai-colombia
-```
+1.  **Create and activate the Conda environment:**
 
-### 2. Install Dependencies
+    ```bash
+    conda env create -f environment.yml
+    conda activate agroai
+    ```
 
-Install the required Python packages using the `requirements.txt` file:
+### Using pip
 
-```bash
-pip install -r requirements.txt
-```
+1.  **Install the dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ### 3. Run the Application
 

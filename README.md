@@ -43,14 +43,18 @@ The project also includes a Retrieval-Augmented Generation (RAG) system, which a
 
 ### Installation
 
-1.  **Clone the repository:**
+#### Using Anaconda/Miniconda (Recommended)
+
+1.  **Create and activate the Conda environment:**
 
     ```bash
-    git clone https://github.com/Jose-M12/AgroAI.git
-    cd AgroAI
+    conda env create -f environment.yml
+    conda activate agroai
     ```
 
-2.  **Install the dependencies:**
+#### Using pip
+
+1.  **Install the dependencies:**
 
     ```bash
     pip install -r requirements.txt
