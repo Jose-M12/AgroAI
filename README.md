@@ -22,8 +22,6 @@ The AgroAI Colombia system is built on a modular, agent-based architecture. Each
 
 The project also includes a Retrieval-Augmented Generation (RAG) system, which allows the agents to access a vast knowledge base of agricultural information.
 
-![Architecture Diagram](docs/architecture.png) <!-- You can create and add an architecture diagram here -->
-
 ## Technologies Used
 
 *   **Backend**: Python, FastAPI
@@ -79,3 +77,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+or details.
